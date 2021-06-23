@@ -1,6 +1,6 @@
 # MIT-6.00.1
 MIT 6.00.1
 
-After completing CS50 6/20/2021 I decided to start MIT 6.001 as part of OSSU (https://github.com/ossu/computer-science). Hope to be able to finish a good chunk of core theory before the summer ends. 
+After completing CS50 6/20/2021 I decided to start MIT 6.001 as part of OSSU (https://github.com/ossu/computer-science) on 6/21/2021. Hope to be able to finish a good chunk of core theory, core programming before the summer ends. 
 
-This is part of my two year plan to build technical fluency so keep track of my progress here! 
+This is the first few steps in my two year journey so stay tuned! I'll be posting updates on my blog so check it out: https://www.blogger.com/u/1/blog/posts/6325277315586462242?hl=en
