@@ -1,0 +1,9 @@
+Plays the game of scrabble/word with friends. 
+
+Rules: 
+  1. Asks how many hands you want to play. 
+  2. Allows one substitution of a letter at the start of each round. Allows you to replay one hand and take the higher score of the replay once per game. 
+  3. Asks for valid word you can construct with letters you have in the hand. 
+  4. Outputs final score. 
+  
+Definitely took a while but getting much more familiar with python and problem solving! 
